@@ -1,56 +1,43 @@
 ## Description
+<!-- What does this PR do and why? -->
+<!-- If applicable, link docs, related Jira tickets, other PRs and other references -->
 
-<!-- What does this PR do and why? Link to relevant design docs if applicable. -->
+## Changes
 
+<!-- Include information for any breaking changes in APIs, contracts, etc. -->
 
-## Related Issues
-
-<!-- Link Jira tickets, GitHub issues, or other tracking references -->
-
-## Type of Change
-
+#### Application
+- [ ] Enhancement
 - [ ] Bug fix
-- [ ] New feature
-- [ ] Breaking change
 - [ ] Refactoring
-- [ ] Infrastructure / CI / DevOps
+- [ ] Dependencies
 - [ ] Documentation
-- [ ] Dependencies update
-
-## Testing
-
-<!-- How was this tested? -->
-- [ ] Unit tests added/updated
-- [ ] Integration tests added/updated
-- [ ] Manual testing (describe below)
-- [ ] No testing required (explain why)
-
-
+#### Infrastructure
+- [ ] Cloud / Resources / DevOps
+- [ ] CI / CD
+- [ ] App version change
+- [ ] App config change
 
 ## AI Assistance
 
-<!-- Were any AI tools used in creating this PR? Helps us understand adoption and improve workflows. -->
 - [ ] No AI tools were used
 - [ ] Claude Code
+- [ ] Codex
 - [ ] Cursor
-- [ ] GitHub Copilot
-- [ ] Other:
+- [ ] Other
 
-<!-- If AI was used, briefly note how (e.g., "generated test scaffolding", "autocomplete for boilerplate"): -->
-
+<!-- If AI was used, consider adding a note how it performed -->
 
 ## Checklist
 
-- [ ] My code follows the project's coding conventions
-- [ ] I have performed a self-review of my changes
-- [ ] I have added/updated tests as appropriate
-- [ ] I have updated documentation as needed
-- [ ] My changes generate no new warnings or errors
+- [ ] **I declare that...**
 
-## Breaking Changes
-
-<!-- If applicable, describe the impact and migration path for existing consumers -->
-
+- My code follows the project's coding conventions
+- I have checked that my changes do not break existing code
+- I have performed a self-review of my changes
+- I have added/updated tests as appropriate
+- I have updated documentation as needed
+- I have described above any breaking changes
 
 ## Screenshots
 
